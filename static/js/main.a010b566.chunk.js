@@ -1,0 +1,2 @@
+(this["webpackJsonpbusiness-card"]=this["webpackJsonpbusiness-card"]||[]).push([[0],{11:function(e,t,n){"use strict";n.r(t);var s=n(1),c=n.n(s),r=n(3),i=n.n(r),o=(n(8),n(9),n(0));var u=function(){return Object(o.jsx)("h1",{children:"hello"})};i.a.render(Object(o.jsx)(c.a.StrictMode,{children:Object(o.jsx)(u,{})}),document.getElementById("root"))},8:function(e,t,n){e.exports={makerWhite:"white"}},9:function(e,t,n){}},[[11,1,2]]]);
+//# sourceMappingURL=main.a010b566.chunk.js.map
